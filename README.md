@@ -22,7 +22,7 @@ Open your terminal and run:
 
 bash
 Copy code
-git clone https://github.com/pathanrasheedkhan/Stealth-form.git
+git clone <url repo link>
 Navigate to the Project Directory
 
 bash
@@ -100,7 +100,7 @@ Open your terminal and run:
 
 bash
 Copy code
-git clone https://github.com/pathanrasheedkhan/Stealth-form.git
+git clone  repo link
 Navigate to the Project Directory
 
 bash
